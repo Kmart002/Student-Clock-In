@@ -1,0 +1,46 @@
+{
+  "getAllStudentCode": [
+    "T2B3",
+    "W3EB",
+    "3M0I",
+    "R8F8",
+    "U8F7"
+  ],
+  "getAllClockedInStudent": [
+    {
+      "id": 1,
+      "fullName": "Karimat",
+      "lga": "ikorodu",
+      "code": "A3dy5",
+      "timeIn": "12.14"
+    },
+    {
+      "fullName": "Tochi Amaechina",
+      "lga": "Ikorodu",
+      "code": "qw3w",
+      "timeIn": "11:46",
+      "id": 1689418006899
+    },
+    {
+      "fullName": "Minah Amchap",
+      "lga": "apina",
+      "code": "ad",
+      "timeIn": "11:48",
+      "id": 1689418109319
+    },
+    {
+      "fullName": "Seun Kuti",
+      "lga": "Ifo",
+      "code": "edfe",
+      "timeIn": "12:17",
+      "id": 1689419880107
+    },
+    {
+      "fullName": "Seun Kuti",
+      "lga": "Ifo",
+      "code": "edfe",
+      "timeIn": "12:18",
+      "id": 1689419895785
+    }
+  ]
+}
